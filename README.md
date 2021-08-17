@@ -14,7 +14,7 @@
 
 ##### Some of the projects I have worked on
 
-* [ROS Turtlebot](https://github.com/laphisboy/RL_fall)
+* [ROS Turtlebot DQN & ACER](https://github.com/laphisboy/RL_fall)
 * [Math Problem Classification](https://github.com/laphisboy/NLP_MathProblem)
 * [DACON Multi-label Classification Competition](https://github.com/laphisboy/dacon_mnist_multilabel) (top 7% : team laphisboy) 
 
