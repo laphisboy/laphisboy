@@ -16,6 +16,8 @@
 
 * [ROS Turtlebot DQN & ACER](https://github.com/laphisboy/RL_fall)
 * [Math Problem Classification](https://github.com/laphisboy/NLP_MathProblem)
-* [DACON Multi-label Classification Competition](https://github.com/laphisboy/dacon_mnist_multilabel) (top 7% : team laphisboy) 
+* [DACON Multi-label Classification Competition](https://github.com/laphisboy/dacon_mnist_multilabel) (top 7% : team laphisboy)
+* [StlyeGAN2 for Style Transfer Face Images to KaoKore Style](https://github.com/laphisboy/stylegan2-pytorch/) 
+* [CCTV Mask Classification Competition](https://github.com/laphisboy/pangyo_AICamp_mask_classicifaction_1st_place) (1st place)
 
 ⭐️ From [StephenCha](https://github.com/StephenCha)
