@@ -1,7 +1,7 @@
 ## Hi there 👋 I’m Young Sun
 
 ## 🔧 
-I’ve worked on [FLoD]([https://github.com/yourusername/flod](https://github.com/3DGS-FLoD/flod))
+I’ve worked on [FLoD](https://github.com/3DGS-FLoD/flod)
 
 ## 🔭 
 I am interested in 3D/4D vision.
